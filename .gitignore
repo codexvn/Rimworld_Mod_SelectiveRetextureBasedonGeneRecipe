@@ -1,0 +1,4 @@
+﻿# AWS User-specific
+.idea
+/SelectiveRetextureBasedonGeneRecipe.sln.DotSettings.user
+*.pdb

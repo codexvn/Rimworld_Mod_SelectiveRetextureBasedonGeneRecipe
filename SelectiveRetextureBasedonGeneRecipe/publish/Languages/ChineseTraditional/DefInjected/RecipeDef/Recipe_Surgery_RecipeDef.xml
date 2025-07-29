@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <ChangeToCategoryRecipe.label>修改身體為CategoryBody樣式</ChangeToCategoryRecipe.label>
+    <ChangeToCategoryRecipe.description>將身體更改為CategoryBody樣式。</ChangeToCategoryRecipe.description>
+    <ChangeToCategoryRecipe.jobString>正在更改為CategoryBody樣式…</ChangeToCategoryRecipe.jobString>
+
+    <ChangeToHoomanCuteRecipe.label>修改身體為HoomanCute樣式</ChangeToHoomanCuteRecipe.label>
+    <ChangeToHoomanCuteRecipe.description>將身體更改為HoomanCute樣式。</ChangeToHoomanCuteRecipe.description>
+    <ChangeToHoomanCuteRecipe.jobString>正在更改為HoomanCute樣式…</ChangeToHoomanCuteRecipe.jobString>
+
+    <ChangeToRealisticBodyRecipe.label>修改身體為RealisticBody樣式</ChangeToRealisticBodyRecipe.label>
+    <ChangeToRealisticBodyRecipe.description>將身體更改為RealisticBody樣式。</ChangeToRealisticBodyRecipe.description>
+    <ChangeToRealisticBodyRecipe.jobString>正在更改為RealisticBody樣式…</ChangeToRealisticBodyRecipe.jobString>
+
+    <ChangeToXevaRecipe.label>修改身體為Xeva樣式</ChangeToXevaRecipe.label>
+    <ChangeToXevaRecipe.description>將身體更改為Xeva樣式。</ChangeToXevaRecipe.description>
+    <ChangeToXevaRecipe.jobString>正在更改為Xeva樣式…</ChangeToXevaRecipe.jobString>
+
+    <ChangeToStandRecipe.label>修改身體為標準體型</ChangeToStandRecipe.label>
+    <ChangeToStandRecipe.description>將身體更改為標準體型。</ChangeToStandRecipe.description>
+    <ChangeToStandRecipe.jobString>正在更改為標準體型…</ChangeToStandRecipe.jobString>
+    
+</LanguageData>

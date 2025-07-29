@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <RecipeDef Abstract="True" Name="AbstractChangeToRecipe">
+    <effectWorking>Surgery</effectWorking>
+    <soundWorking>Recipe_Surgery</soundWorking>
+    <workSpeedStat>MedicalOperationSpeed</workSpeedStat>
+    <workSkill>Medicine</workSkill>
+    <workSkillLearnFactor>0</workSkillLearnFactor>
+    <recipeUsers>
+      <li>Human</li>
+      <li MayRequire="Ludeon.RimWorld.Anomaly">CreepJoiner</li>
+    </recipeUsers>
+    <appliedOnFixedBodyParts>
+      <li>Torso</li>
+    </appliedOnFixedBodyParts>
+    <hideBodyPartNames>true</hideBodyPartNames>
+    <skillRequirements>
+      <Medicine>3</Medicine>
+    </skillRequirements>
+    <workAmount>200</workAmount>
+    <anesthetize>false</anesthetize>
+  </RecipeDef>
+
+  <RecipeDef ParentName="AbstractChangeToRecipe">
+    <defName>ChangeToCategoryRecipe</defName>
+    <label>ChangeToCategoryRecipe.label</label>
+    <description>ChangeToCategoryRecipe.description</description>
+    <workerClass>SelectiveRetextureBasedonGeneRecipe.ChangeToCategoryRecipe</workerClass>
+    <jobString>ChangeToCategoryRecipe.jobString</jobString>
+  </RecipeDef>
+  <RecipeDef ParentName="AbstractChangeToRecipe">
+    <defName>ChangeToHoomanCuteRecipe</defName>
+    <label>ChangeToHoomanCuteRecipe.label</label>
+    <description>ChangeToHoomanCuteRecipe.description</description>
+    <workerClass>SelectiveRetextureBasedonGeneRecipe.ChangeToHoomanCuteRecipe</workerClass>
+    <jobString>ChangeToHoomanCuteRecipe.jobString</jobString>
+  </RecipeDef>
+  <RecipeDef ParentName="AbstractChangeToRecipe">
+    <defName>ChangeToRealisticBodyRecipe</defName>
+    <label>ChangeToRealisticBodyRecipe.label</label>
+    <description>ChangeToRealisticBodyRecipe.description</description>
+    <workerClass>SelectiveRetextureBasedonGeneRecipe.ChangeToRealisticBodyRecipe</workerClass>
+    <jobString>ChangeToRealisticBodyRecipe.jobString</jobString>
+  </RecipeDef>
+  <RecipeDef ParentName="AbstractChangeToRecipe">
+    <defName>ChangeToXevaRecipe</defName>
+    <label>ChangeToXevaRecipe.label</label>
+    <description>ChangeToXevaRecipe.description</description>
+    <workerClass>SelectiveRetextureBasedonGeneRecipe.ChangeToXevaRecipe</workerClass>
+    <jobString>ChangeToXevaRecipe.jobString</jobString>
+  </RecipeDef>
+  <RecipeDef ParentName="AbstractChangeToRecipe">
+    <defName>ChangeToStandRecipe</defName>
+    <label>ChangeToStandRecipe.label</label>
+    <description>ChangeToStandRecipe.description</description>
+    <workerClass>SelectiveRetextureBasedonGeneRecipe.ChangeToStandRecipe</workerClass>
+    <jobString>ChangeToStandRecipe.jobString</jobString>
+  </RecipeDef>
+</Defs>

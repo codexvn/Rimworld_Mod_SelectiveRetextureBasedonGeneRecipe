@@ -1,0 +1,12 @@
+<ModMetaData>
+    <name>Selective Retexture Based on Gene Recipe</name>
+    <author>codexvn</author>
+    <packageId>codexvn.SelectiveRetextureBasedonGeneRecipe.main</packageId>
+    <supportedVersions>
+        <li>1.6</li>
+    </supportedVersions>
+    <loadAfter>
+        <li>LanYv.SelectiveRetextureBasedonGene</li>
+    </loadAfter>
+    <description>添加几个用于更改体型基因的手术,可以做到不使用人物编辑器就更换形象,目前Gene_HCChild基因暂未支持,源码在:https://github.com/codexvn/Rimworld_Mod_SelectiveRetextureBasedonGeneRecipe</description>
+</ModMetaData>

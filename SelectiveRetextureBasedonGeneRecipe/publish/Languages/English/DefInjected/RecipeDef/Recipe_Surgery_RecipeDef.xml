@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <ChangeToCategoryRecipe.label>Change body to CategoryBody style</ChangeToCategoryRecipe.label>
+    <ChangeToCategoryRecipe.description>Change the body to CategoryBody style.</ChangeToCategoryRecipe.description>
+    <ChangeToCategoryRecipe.jobString>Changing to CategoryBody style…</ChangeToCategoryRecipe.jobString>
+
+    <ChangeToHoomanCuteRecipe.label>Change body to HoomanCute style</ChangeToHoomanCuteRecipe.label>
+    <ChangeToHoomanCuteRecipe.description>Change the body to HoomanCute style.</ChangeToHoomanCuteRecipe.description>
+    <ChangeToHoomanCuteRecipe.jobString>Changing to HoomanCute style…</ChangeToHoomanCuteRecipe.jobString>
+
+    <ChangeToRealisticBodyRecipe.label>Change body to RealisticBody style</ChangeToRealisticBodyRecipe.label>
+    <ChangeToRealisticBodyRecipe.description>Change the body to RealisticBody style.</ChangeToRealisticBodyRecipe.description>
+    <ChangeToRealisticBodyRecipe.jobString>Changing to RealisticBody style…</ChangeToRealisticBodyRecipe.jobString>
+
+    <ChangeToXevaRecipe.label>Change body to Xeva style</ChangeToXevaRecipe.label>
+    <ChangeToXevaRecipe.description>Change the body to Xeva style.</ChangeToXevaRecipe.description>
+    <ChangeToXevaRecipe.jobString>Changing to Xeva style…</ChangeToXevaRecipe.jobString>
+
+    <ChangeToStandRecipe.label>Change body to Standard body type</ChangeToStandRecipe.label>
+    <ChangeToStandRecipe.description>Change the body to Standard body type.</ChangeToStandRecipe.description>
+    <ChangeToStandRecipe.jobString>Changing to Standard body type…</ChangeToStandRecipe.jobString>
+    
+</LanguageData>
