@@ -24,7 +24,14 @@ namespace SelectiveRetextureBasedonGeneRecipe
                 pawn.Drawer.renderer.SetAllGraphicsDirty();
             }
         }
-
+        public override bool AvailableOnNow(Thing thing, BodyPartRecord part = null)
+        {
+            if (thing is Pawn pawn && pawn.IsCreepJoiner)
+            {
+                return false;
+            }
+            return base.AvailableOnNow(thing, part);
+        }
         protected abstract void DoChange(Pawn pawn);
     }
 
